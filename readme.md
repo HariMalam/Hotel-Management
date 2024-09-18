@@ -14,14 +14,6 @@ Before you begin, ensure you have the following installed:
 
 To set up the project, follow these steps:
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/HariMalam/Hotel-Management.git
-    ```
-2. **Navigate to the project directory**:
-    ```bash
-    cd Hotel-Management
-    ```
 ### Step 1: Install XAMPP
 
 1. Download and install XAMPP from the [official website](https://www.apachefriends.org/index.html).
@@ -32,7 +24,7 @@ To set up the project, follow these steps:
 1. **Clone the repository or download the project files**:
    - If using Git, run:
      ```bash
-     git clone <repository-url>
+     https://github.com/HariMalam/Hotel-Management.git
      ```
    - Alternatively, download the ZIP file and extract it.
 

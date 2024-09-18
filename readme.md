@@ -10,7 +10,18 @@ Before you begin, ensure you have the following installed:
 - [XAMPP](https://www.apachefriends.org/index.html) (or any other local server that supports PHP and MySQL)
 
 ## Installation Instructions
+### Installation Instructions
 
+To set up the project, follow these steps:
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/HariMalam/Hotel-Management.git
+    ```
+2. **Navigate to the project directory**:
+    ```bash
+    cd Hotel-Management
+    ```
 ### Step 1: Install XAMPP
 
 1. Download and install XAMPP from the [official website](https://www.apachefriends.org/index.html).
